@@ -6,7 +6,7 @@ import 'package:flutter/services.dart';
 
 
 class NavWidget extends StatelessWidget {
-  const navWidget({Key? key}) : super(key: key);
+  const NavWidget({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
